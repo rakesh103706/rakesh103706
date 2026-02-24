@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Black and Yellow Web Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/dce393ba-c5a6-41ca-a108-5234b08c1dff" />
+
 <h1 align="center">Hi 👋, I'm Niduram Rakesh</h1>
 <h3 align="center">Cyber Security Student | Blue Team | SOC Analyst | Threat Detection</h3>
 
