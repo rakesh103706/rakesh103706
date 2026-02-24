@@ -32,8 +32,14 @@
 
 ## 📌 Featured Projects
 Blockchain-based Mutual Authentication for EV TPMS
+
+
 Phishing Website Detection using Deep Learning
+
+
 SentinelShield-Advanced-Intrusion-Detection-Web-Protection-System
+
+
 Network Traffic Anomaly Detector (AI-Based IDS)
 
 
