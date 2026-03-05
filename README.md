@@ -31,17 +31,21 @@
 ---
 
 ## 📌 Featured Projects
-Blockchain-based Mutual Authentication for EV TPMS
 
 
-Phishing Website Detection using Deep Learning
+[SentinelShield-Advanced-Intrusion-Detection-Web-Protection-System](https://github.com/rakesh103706/SentinelShield-Advanced-Intrusion-Detection-Web-Protection-System.git)
 
 
-SentinelShield-Advanced-Intrusion-Detection-Web-Protection-System
+[Network Traffic Anomaly Detector (AI-Based IDS)](https://github.com/rakesh103706/Network-Traffic-Anomaly-Detector.git)
 
 
-Network Traffic Anomaly Detector (AI-Based IDS)
+[Autonomous Phishing Email Detection & Threat Intelligence Platformhttps://github.com/rakesh103706/Autonomous-Phishing-Email-Detection-Threat-Intelligence-Platform.git](https://github.com/rakesh103706/Autonomous-Phishing-Email-Detection-Threat-Intelligence-Platform.git)
 
+
+https://github.com/rakesh103706/Phishing-Website-Detection-Based-On-Multidimensional-Features-Driven-By-Deeplearning.git
+
+
+https://github.com/rakesh103706/Blockchain-based-mutual-authentication-method-to-secure-electric-vehicles-TPMS.git
 
 ---
 
