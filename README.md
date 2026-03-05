@@ -49,13 +49,6 @@ https://github.com/rakesh103706/Blockchain-based-mutual-authentication-method-to
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakesh103706&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh103706&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/niduram-rakesh-675528219
